@@ -1,0 +1,39 @@
+/* body全体のフォント設定と中央寄せ */
+body {
+    font-family: "Arial", "Meiryo", sans-serif; /* フォント設定 */
+    text-align: center; /* 中央寄せ */
+    font-size: 20px; /* フォントサイズ */
+}
+
+/* h1のフォント設定と装飾 */
+h1 {
+    font-family: 'Josefin Sans', sans-serif; /* GoogleフォントのJosefin Sansを使用 */
+    font-size: 2em; /* h1のフォントサイズはルートの2倍 */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* 影の追加 */
+    border-bottom: 3px solid rgb(115, 115, 114); /* 下線を追加 */
+}
+
+/* MYPROFILEの特定文字に色を付ける */
+.skyblue {
+    color: skyblue; /* Mの色をスカイブルーに */
+}
+
+.pink {
+    color: rgb(255, 192, 203); /* Pの色をピンクに */
+}
+
+/* h2見出しの装飾 */
+h2 {
+    color: pink; /* h2の文字色をピンクに */
+}
+
+/* 生年月日、趣味、プログラミングを始めた理由の見出しはスカイブルー */
+h2:nth-of-type(2n) {
+    color: skyblue;
+}
+
+/* 太字の設定（名前、1990年1月1日、O型） */
+#basic p {
+    font-weight: bold;
+}
+
