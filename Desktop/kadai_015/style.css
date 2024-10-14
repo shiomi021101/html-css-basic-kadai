@@ -1,0 +1,46 @@
+/* body 全体のフォント設定 */
+body {
+    font-family: "Arial", "Meiryo", sans-serif; /* フォントファミリー */
+    text-align: center; /* テキストを中央寄せ */
+    font-size: 20px; /* フォントサイズ */
+}
+
+/* h1 タイトルのスタイル */
+h1 {
+    font-family: 'Josefin Sans', sans-serif; /* h1 のフォント */
+    font-size: 40px; /* h1 のフォントサイズ */
+    letter-spacing: 1.2em; /* h1 の文字間 */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* h1 の影 */
+    border-bottom: 3px solid rgb(115, 115, 114); /* h1 の下線 */
+}
+
+/* MとPの色指定 */
+h1::first-letter {
+    color: skyblue; /* Mの色 */
+}
+
+h1 span {
+    color: rgb(255, 192, 203); /* Pの色 */
+}
+
+/* h2 のスタイル */
+h2 {
+    color: pink; /* 基本のh2の色 */
+}
+
+/* 特定の見出しの色変更 */
+h2:nth-of-type(2),
+h2:nth-of-type(4),
+h2:nth-of-type(6) {
+    color: skyblue; /* 生年月日、趣味、プログラミングを始めた理由の色 */
+}
+
+/* 太字のスタイル */
+#basic p {
+    font-weight: normal; /* 他のp要素は通常の太さ */
+}
+
+#basic p strong {
+    font-weight: bold; /* strongタグ内のテキストを太字に */
+}
+
