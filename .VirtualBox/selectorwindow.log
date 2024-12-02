@@ -1,0 +1,22 @@
+00:00:01.236201 VirtualBox GUI VM Selector Window 7.1.4 r165100 win.amd64 (Oct 10 2024 18:57:17) release log
+00:00:01.236204 Log opened 2024-11-12T13:38:54.321180100Z
+00:00:01.236205 Build Type: release
+00:00:01.236211 OS Product: Windows 11
+00:00:01.236213 OS Release: 10.0.26100
+00:00:01.236213 OS Service Pack: 
+00:00:01.276197 DMI Product Name: PC-N1455HAL
+00:00:01.288083 DMI Product Version: PC-N1455HAL
+00:00:01.288122 Firmware type: UEFI
+00:00:01.289554 Secure Boot: Enabled
+00:00:01.289575 Host RAM: 14173MB (13.8GB) total, 6339MB (6.1GB) available
+00:00:01.289585 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.289586 Process ID: 33704
+00:00:01.289587 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.289588 Windows Features:
+00:00:01.289589   Core Isolation (Memory Integrity): ENABLED
+00:00:01.290147 Qt version: 6.5.3
+00:00:01.291735 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:01.322324 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.322443 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:16.473839 GUI: UICommon: Handling aboutToQuit request..
+00:01:16.864983 GUI: UICommon: aboutToQuit request handled!

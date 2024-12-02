@@ -1,0 +1,59 @@
+00:00:00.008890 main     VirtualBox COM Server 7.1.4 r165100 win.amd64 (Oct 10 2024 18:57:17) release log
+00:00:00.008897 main     Log opened 2024-11-12T13:38:53.430541600Z
+00:00:00.008898 main     Build Type: release
+00:00:00.008909 main     OS Product: Windows 11
+00:00:00.008910 main     OS Release: 10.0.26100
+00:00:00.008911 main     OS Service Pack: 
+00:00:00.077135 main     DMI Product Name: PC-N1455HAL
+00:00:00.103726 main     DMI Product Version: PC-N1455HAL
+00:00:00.103739 main     Firmware type: UEFI
+00:00:00.104811 main     Secure Boot: Enabled
+00:00:00.104843 main     Host RAM: 14173MB (13.8GB) total, 6354MB (6.2GB) available
+00:00:00.104855 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.104856 main     Process ID: 15584
+00:00:00.104857 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.104864 main     Windows Features:
+00:00:00.104864 main       Core Isolation (Memory Integrity): ENABLED
+00:00:00.305721          VirtualBox: object creation starts
+00:00:00.306258          Home directory: 'C:\Users\megsh\.VirtualBox'
+00:00:00.307082          Installed Drivers:
+00:00:00.374004          Loading settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.379118          usbLibGetDevices: Starting USB device enumeration
+00:00:00.379556          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&314e350&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.379833          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&261685ad&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.393905          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.394042          USB: Unknown USB device detected (idVendor: 0x27c6, idProduct: 0x550a)
+00:00:00.394060          USB: Unknown USB device detected (idVendor: 0x30c9, idProduct: 0x00a7)
+00:00:00.616825          HostDnsMonitor: initializing
+00:00:00.638122          HostDnsMonitor: updating information
+00:00:00.638163          HostDnsMonitor: old information
+00:00:00.638164            no server entries
+00:00:00.638165            no domain set
+00:00:00.638166            no search string entries
+00:00:00.638166          HostDnsMonitor: new information
+00:00:00.638167            server 1: 192.168.0.254
+00:00:00.638168            no domain set
+00:00:00.638168            no search string entries
+00:00:00.643814          VD: VDInit finished with VINF_SUCCESS
+00:00:00.646701          VirtualBox: object created
+00:00:00.960327          Saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.968605          Finished saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml"
+00:00:00.969182          Saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.976506          Finished saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml"
+00:00:00.976910          Saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.983278          Finished saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml"
+00:00:17.628822          Saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:17.645794          Finished saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml"
+00:00:54.482015          Saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:54.498792          Finished saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml"
+00:00:57.569957          Saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:57.580035          Finished saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml"
+00:00:57.955719          Saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:57.966481          Finished saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml"
+00:01:15.401818          Saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:15.410105          Finished saving settings file "C:\Users\megsh\.VirtualBox\VirtualBox.xml"
+00:01:21.504918 main     VirtualBox: object deletion starts
+00:01:21.507381 main     HostDnsMonitor: shutting down ...
+00:01:21.507572 main     HostDnsMonitor: shut down
+00:01:21.510393 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:21.510818 main     VirtualBox: object deleted
